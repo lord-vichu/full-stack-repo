@@ -9,7 +9,8 @@ const additem=()=>{
     //Step4. Add item to the list
     list.appendChild(listitem)
   
-}
+}aduhahdhah
+
 let btn=document.querySelector("#btn")
 //document.getElemntById("btn");
 btn.addEventListener("click",additem)
